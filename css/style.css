@@ -1,0 +1,18 @@
+
+
+.lead{
+	color : #fff;
+}
+
+/* Show it's not fixed to the top */
+body {
+  min-height: 75rem;
+  background-image: url('../img/bg.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+.header-title{
+	color: #fff;
+}
